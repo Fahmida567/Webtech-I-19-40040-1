@@ -6,8 +6,8 @@ function fetchAllStudents(){
 	return showAllStudent();
 
 }
-function fetchStudent($username){
-	return showStudent($username);
+// function fetchStudent($username){
+// 	return showStudent($username);
 
-}
+// }
 ?>

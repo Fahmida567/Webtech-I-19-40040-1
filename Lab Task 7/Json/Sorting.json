@@ -1,0 +1,76 @@
+{
+
+  "Properties":[
+             {
+
+             	"Location": "Banani",
+                "Address" : "Road:15, House:21",
+             	"Floor": "10th floor",
+                "Details of the flat": "This flat has 3 bedrooms, a kitchen with a dishwasher, a microwave, a flat-screen TV, a seating area and 3 bathrooms fitted with a shower."
+             },
+             { 
+                "Location": "Banani",
+             	"Address" : "Road:10, House:20",
+             	"Floor": "2th floor",
+               "Details of the flat": "This flat has 4 bedrooms, a kitchen with a dishwasher, a microwave, a flat-screen TV, a seating area and 3 bathrooms fitted with a shower."
+
+
+             	
+             },
+
+             {
+             	"Location": "Banani",
+             	"Address" : "Road:6, House:10",
+             	"Floor": "5th floor",
+               "Details of the flat": "single BedRoom"
+
+             },
+             {
+
+             	"Location": "Banani",
+             	"Address" : "Road:9, House:14",
+             	"Floor": "5th floor",
+               "Details of the flat": "2 bedroom,1 kithcen,1 bathroom."
+             },
+
+             {
+
+             	"Location": "Banani",
+             	"Address" : "Road:02, House:9",
+             	"Floor": "5th floor",
+              "Details of the flat": "Single Bed,1 bath,Kithchen"
+             },
+             {
+
+             	"Location": "Banani",
+             	"Address" : "Road:10, House:12",
+             	"Floor": "1st floor",
+           "Details of the flat": "Single Bed,1 bath,kitchen"
+             },
+             {
+
+             	"Location": "Banani",
+             	"Address" : "Road:7, House:21",
+             	"Floor": "2th floor",
+               "Details of the flat": "2 BedRoom,1 bath, 1 veranda,1 kitchen"
+             },
+             {
+
+             	"Location": "Banani",
+             	"Address" : "Road:02, House:10",
+             	"Floor": "5th floor",
+               "Details of the flat": "2 Bed,2 bath,1 veranda,1 kithchen"
+             }
+
+
+
+
+
+
+
+
+  ]
+
+
+
+}
